@@ -19,16 +19,20 @@ In the terminal, execute the following commands after cloning the project on you
 sudo apt-get -y install python3-pip
 `
 
-* Installing NumPy  
+* Installing NumPy
+
 `sudo pip3 install numpy`
 
 * Install Pillow
+
 `sudo pip3 install Pillow==2.2.1`
 
 * Install PIL
+
 `sudo pip3 install pil`
 
 * Install scipy
+
 `sudo pip install git+https://github.com/scipy/scipy.git`
 ## Running
 ### Important
