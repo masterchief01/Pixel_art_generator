@@ -29,7 +29,7 @@ sudo apt-get -y install python3-pip
 `sudo pip3 install pil`
 
 * Install scipy
-`pip install git+https://github.com/scipy/scipy.git`
+`sudo pip install git+https://github.com/scipy/scipy.git`
 ## Running
 ### Important
 `Give the absolute path of the test image in the main function of the script in main.py before running the script`
