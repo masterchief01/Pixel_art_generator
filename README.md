@@ -13,7 +13,7 @@ The script uses the following python libraries:
 
 ### Installing
 
-In the terminal, execute the following commands:
+In the terminal, execute the following commands after cloning the project on your local machine:
 * Installing pip3:
 `
 sudo apt-get -y install python3-pip
