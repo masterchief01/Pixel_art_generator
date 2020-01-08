@@ -35,9 +35,9 @@ sudo apt-get -y install python3-pip
 `Give the absolute path of the test image in the main function of the script in main.py before running the script`
 
 Execute `python3 main.py` in the project directory to run the script.
-##### The script may take some time to pixilate the images that are relatively larger in size.
-##### Also it is advised to not try to pixilate full HD or 4K images as these may cause overflow errors.
-#### I have also given some sample images for the user to try the script in the images folder.
+* ##### The script may take some time to pixilate the images that are relatively larger in size.
+* ##### Also it is advised to not try to pixilate full HD or 4K images as these may cause overflow errors.
+* #### I have also given some sample images for the user to try the script in the images folder.
 
 ## Contributing
 To raise issues, request a feature or contribute, visit [here](https://github.com/masterchief01/Pixel_art_generator).
